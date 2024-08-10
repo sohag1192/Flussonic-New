@@ -35,9 +35,8 @@ To activate Flussonic Media Server:
 
 1) Start the server by running the following command in the terminal:
 
-
 service flussonic start
------
+
 #Open in browser
 ---
 web interface on the page http://localhost
@@ -46,18 +45,19 @@ web interface on the page http://localhost
 
 # "Active Flussonic License Key is Below":
 **l4|rXM4FdbzMJif4xUUwkaoi2|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3** 
-
+----
 l4|8Ku8ypPgOUySHysCdkFHW0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
-
+-----
 l4|rXM4FdbzMJif4xUUwkaoi2|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
-
+---
 l4|aO4RO2ZdLEzHAdH46n6iD0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
 
 # Updating Flussonic
-To install updates, simply update the packages and install Flussonic:
 
+To install updates, simply update the packages and install Flussonic:
+----
 apt-get update
 apt-get -y install flussonic
-/etc/init.d/flussonic restart
+service flussonic restart
 
 
