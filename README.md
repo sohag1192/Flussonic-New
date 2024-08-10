@@ -2,7 +2,17 @@
 
 http://flussonic.com/doc/installation
 
-# Installing Flussonic using Debian installation package (for Ubuntu 12.04 64bit and higher or Debian Wheezy 64 bit)
+# Flussonic-SH
+On Ubuntu
+Supported architectures: amd64, arm64.
+
+Supported OS versions: Ubuntu LTS 22.04, 20.04.
+
+Install Flussonic Media Server using the apt tool:
+
+**curl -sSf https://flussonic.com/public/install.sh | sh**
+
+# Installing Flussonic using Debian installation package (for Ubuntu and higher or Debian 64 bit)
 
 wget -q -O - http://debian.erlyvideo.org/binary/gpg.key | apt-key add -;
 
