@@ -29,12 +29,19 @@ apt-get -y install flussonic flussonic-ffmpeg flussonic-python
 
 # Now you are ready to start Flussonic
 
-/etc/init.d/flussonic start
+Activating Flussonic Media Server¶
+-------
+To activate Flussonic Media Server:
 
+1) Start the server by running the following command in the terminal:
+
+
+service flussonic start
+-----
 #Open in browser
-
+---
 web interface on the page http://localhost
- 
+ --
 
 
 # Cracked flussonic license key
