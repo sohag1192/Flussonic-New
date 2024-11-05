@@ -15,8 +15,8 @@ Supported OS versions: Ubuntu LTS 22.04, 20.04.
 
 Install Flussonic Media Server using the apt tool:
 
-apt update
-apt install curl 
+**apt update**
+**apt install curl **
 
 curl -sSf https://flussonic.com/public/install.sh | sh
 
