@@ -7,11 +7,11 @@ You can install Flussonic Media Server on Ubuntu, CentOS/RedHat and other RPM-ba
 
 http://flussonic.com/doc/installation
 
-# Flussonic-SH
-On Ubuntu
+# Flussonic-Shell Commands On Ubuntu
+
 Supported architectures: amd64, arm64.
 
-Supported OS versions: Ubuntu LTS 22.04, 20.04.
+Supported OS versions: Ubuntu LTS 22.04, 20.04 & Etc
 
 Install Flussonic Media Server using the apt tool:
 
@@ -20,7 +20,10 @@ apt update
 apt install curl -y
 
 curl -sSf https://flussonic.com/public/install.sh | sh
+<br>
+service flussonic start
 
+---------------
 # Installing Flussonic using Debian installation package (for Ubuntu and higher or Debian 64 bit)
 
 wget -q -O - http://debian.erlyvideo.org/binary/gpg.key | apt-key add -;
