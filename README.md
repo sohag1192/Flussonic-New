@@ -4,8 +4,7 @@
 Installing Flussonic Media Server¶
 You can install Flussonic Media Server on Ubuntu, CentOS/RedHat and other RPM-based distributions.
 ----------------
-apt update
-apt install curl 
+
 http://flussonic.com/doc/installation
 
 # Flussonic-SH
@@ -15,6 +14,9 @@ Supported architectures: amd64, arm64.
 Supported OS versions: Ubuntu LTS 22.04, 20.04.
 
 Install Flussonic Media Server using the apt tool:
+
+apt update
+apt install curl 
 
 curl -sSf https://flussonic.com/public/install.sh | sh
 
