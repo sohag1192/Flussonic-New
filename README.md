@@ -17,7 +17,7 @@ Install Flussonic Media Server using the apt tool:
 
 apt update
 <br>
-apt install curl 
+apt install curl -y
 
 curl -sSf https://flussonic.com/public/install.sh | sh
 
