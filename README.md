@@ -4,7 +4,8 @@
 Installing Flussonic Media Server¶
 You can install Flussonic Media Server on Ubuntu, CentOS/RedHat and other RPM-based distributions.
 ----------------
-
+apt update
+apt install curl 
 http://flussonic.com/doc/installation
 
 # Flussonic-SH
