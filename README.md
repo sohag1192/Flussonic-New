@@ -20,6 +20,7 @@ apt update
 apt install curl -y
 
 curl -sSf https://flussonic.com/public/install.sh | sh
+
 <br>
 service flussonic start
 
