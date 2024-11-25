@@ -1,3 +1,8 @@
+Earning Money: 
+
+https://app.nodepay.ai/register?ref=UC6xSgspjlng0Xj
+
+
 # Flussonic-New
 
 
