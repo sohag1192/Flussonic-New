@@ -1,7 +1,8 @@
-Earning Money: 
 
-https://app.nodepay.ai/register?ref=UC6xSgspjlng0Xj
-
+<div class="col-md-12 text-center">
+			<a class="ftp btn-custom" target="_blank" href="https://t.me/Flussonics">
+			<i class="fa fa-telegram"></i> Flussonic Install Helps </a>
+				</div>
 
 # Flussonic-New
 
