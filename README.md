@@ -1,4 +1,4 @@
-
+******Hi everyone! 🌟 You can support me by sending Stars******
 
 <div id="badges">
   <a href="https://t.me/Flussonics">
