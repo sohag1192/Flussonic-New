@@ -1,11 +1,11 @@
-******Hi everyone! 🌟 You can support me by sending Stars******
+# ******Hi Everyone! 🌟 You can support me by sending Stars******
 
 <div id="badges">
   <a href="https://t.me/Flussonics">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-# Flussonic-New
+# How Installing Flussonic Streaming Server 
 
 
 Installing Flussonic Media Server¶
