@@ -1,15 +1,10 @@
 # ******Hi Everyone! 🌟 You can support me by sending Stars******
 
-<div id="badges">
-  <a href="https://t.me/Flussonics">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
 # How Installing Flussonic Streaming Server 
 
 
 Installing Flussonic Media Server¶
-You can install Flussonic Media Server on Ubuntu, CentOS/RedHat and other RPM-based distributions.
+You can install Flussonic Media Server on Ubuntu, CentOS/RedHat
 ----------------
 
 http://flussonic.com/doc/installation
