@@ -68,8 +68,14 @@ web interface on the page
     gpgcheck=0
     EOF
     yum -y install flussonic-erlang flussonic flussonic-transcoder
+
+ #Activating Flussonic Media Server¶
+ 
+To activate Flussonic Media Server:
+
+1) Start the server by running the following command in the terminal:
     
-service flussonic start
+        service flussonic start
 
 # Now you are ready to start Flussonic
 
