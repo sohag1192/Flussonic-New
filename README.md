@@ -46,6 +46,7 @@ web interface on the page
 
 # Manual Step
 
+
 # Installing Flussonic using Debian installation package (for Ubuntu and higher or Debian 64 bit)
 
       wget -q -O - http://debian.erlyvideo.org/binary/gpg.key | apt-key add -;
@@ -55,6 +56,20 @@ web interface on the page
       apt-get update;
 
       apt-get -y install flussonic flussonic-ffmpeg flussonic-python
+
+
+ # Installing Flussonic using Debian installation package   On RPM-based CentOS/RedHat and others¶
+ 
+    cat > /etc/yum.repos.d/Flussonic.repo <<EOF
+    [flussonic]
+    name=Flussonic
+    baseurl=http://apt.flussonic.com/rpm
+    enabled=1
+    gpgcheck=0
+    EOF
+    yum -y install flussonic-erlang flussonic flussonic-transcoder
+    
+service flussonic start
 
 # Now you are ready to start Flussonic
 
